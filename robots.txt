@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isitjo.github.io/sitemap/sitemap.TxVUo.gz
